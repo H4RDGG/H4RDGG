@@ -19,6 +19,13 @@ Sou um empreendedor digital focado em projetos de games, roleplay e e-sports, co
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
+    <a href="https://g.dev/hardgg">
+        <img 
+            alt="Desenvolvedor google" 
+            title="Vizualizações no YouTube" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+        />
+    </a> 
     <a href="https://github.com/h4rdgg?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
