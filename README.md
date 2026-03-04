@@ -21,9 +21,9 @@ Sou um empreendedor digital focado em projetos de games, roleplay e e-sports, co
     </a> 
     <a href="https://g.dev/hardgg">
         <img 
-            alt="Desenvolvedor google" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/github/stars/h4rdgg?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Google Developers"
+            alt="G Dev" 
+            title="G Dev" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Google Developers"
         />
     </a> 
     <a href="https://github.com/h4rdgg?tab=followers">
