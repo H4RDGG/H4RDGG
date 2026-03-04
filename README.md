@@ -23,16 +23,9 @@ Sou um empreendedor digital focado em projetos de games, roleplay e e-sports, co
         <img 
             alt="Desenvolvedor google" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/h4rdgg?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Google Developers"
         />
     </a> 
-    <a href="https://github.com/h4rdgg?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
     <a href="https://github.com/h4rdgg?tab=followers">
         <img 
             alt="Seguidores" 
