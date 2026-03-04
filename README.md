@@ -23,7 +23,7 @@ Sou um empreendedor digital focado em projetos de games, roleplay e e-sports, co
         <img 
             alt="Desenvolvedor google" 
             title="Vizualizações no YouTube" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a> 
     <a href="https://github.com/h4rdgg?tab=repositories&sort=stargazers">
