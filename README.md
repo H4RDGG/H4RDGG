@@ -23,7 +23,7 @@ Sou um empreendedor digital focado em projetos de games, roleplay e e-sports, co
         <img 
             alt="Desenvolvedor google" 
             title="Vizualizações no YouTube" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
         />
     </a> 
     <a href="https://github.com/h4rdgg?tab=repositories&sort=stargazers">
