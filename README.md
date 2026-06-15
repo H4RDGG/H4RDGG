@@ -6,7 +6,7 @@
 
 ## 🧑🏻‍💻 Sobre Mim
 
-Sou um **empreendedor digital** focado em projetos de games, roleplay e e-sports, com forte visão estratégica e organizacional. Atuo na criação e gestão de servidores de RP, plataformas digitais e campeonatos competitivos, sempre buscando profissionalismo, realismo e inovação. 
+Sou um **empreendedor digital** focado em projetos de games, roleplay e e-sports, com forte visão estratégica e organizacional. Atuo na criação e gestão de servidores, plataformas digitais e campeonatos competitivos, sempre buscando profissionalismo, realismo e inovação. 
 
 Tenho perfil líder, orientado a resultados, parcerias e crescimento sustentável, transformando ideias em projetos bem estruturados e escaláveis. 🚀
 
