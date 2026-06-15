@@ -20,27 +20,19 @@ Tenho perfil líder, orientado a resultados, parcerias e crescimento sustentáve
   </a>
 </div>
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=H4RDGG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4RDGG&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ---
 
 ## 📞 Contato
 
 <div align="center">
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:juansouzacz@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/seu-perfil">
+  <a href="https://br.linkedin.com/in/juan-cruz-">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/seu-id">
+  <a href="https://discord.com/users/538159170600435722">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
